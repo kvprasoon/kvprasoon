@@ -1,4 +1,4 @@
-### Namaskaram 🙏
+### Howdy 👋
 
 I am a Software Technologist working for Philips and a proud PowerShell community contributor.
 
