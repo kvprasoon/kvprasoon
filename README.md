@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a Software Engineer working for PayPal and a proud PowerShell community contributor.
+I am a Senior Software Technologits working for Philips and a proud PowerShell community contributor.
 
 * :bulb:  Seeker
 * :globe_with_meridians: Senior Moderator @ [PowerShell.org](www.powershell.org)
