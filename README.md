@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a Senior Software Technologits working for Philips and a proud PowerShell community contributor.
+I am a Senior Software Technologist working for Philips.
 
 * :bulb:  Seeker
 * 💬 Ask me about [PowerShell](https://aka.ms/powershell), I love it...
