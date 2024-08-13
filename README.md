@@ -3,7 +3,6 @@
 I am a Senior Software Technologits working for Philips and a proud PowerShell community contributor.
 
 * :bulb:  Seeker
-* :globe_with_meridians: Senior Moderator @ [PowerShell.org](www.powershell.org)
 * 💬 Ask me about [PowerShell](https://aka.ms/powershell), I love it...
 * 📫 How to reach me:
     - :bird: [Twitter](https://twitter.com/prasoonkarunan)
