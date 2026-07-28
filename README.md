@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a Senior Software Technologist working for Philips.
+I am a Technical Architect working for Philips.
 
 * :bulb:  Seeker
 * 💬 Ask me about [PowerShell](https://aka.ms/powershell), I love it...
@@ -8,5 +8,5 @@ I am a Senior Software Technologist working for Philips.
     - :bird: [Twitter](https://twitter.com/prasoonkarunan)
     - [LinkedIn](www.linkedin.com/in/kvprasoon)
 * 🎉 [PowerShell Community Hero 2019](https://twitter.com/KevinMarquette/status/1122993363215511552)
-* ⚡ Fun fact: Not funny...
+* ⚡ Fun fact: Not funny... ;-)
 
